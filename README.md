@@ -1,2 +1,0 @@
-# Luthfi-alkindi
-pengenalan python
