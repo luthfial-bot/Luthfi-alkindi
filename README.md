@@ -1,2 +1,2 @@
 # Luthfi-alkindi
-Link pengumpulan tugas
+pengenalan python
